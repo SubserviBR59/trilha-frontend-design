@@ -28,3 +28,6 @@ Ao final, apresenta o resultado da análise acompanhado de evidências.
 * Resultado da Análise
 * Apresentação de Evidências
 * Geração de Relatório
+
+# Link do Figma
+https://www.figma.com/make/XnBmchZAlxHUXzE4HMnDFD/DeepFake-Detection-App?t=hctEBbGmHKrCbRCz-1
